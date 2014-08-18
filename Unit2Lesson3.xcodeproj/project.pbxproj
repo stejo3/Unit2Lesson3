@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		E94349D719A2AEE200222F4C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94349D619A2AEE200222F4C /* main.swift */; };
+		E94349DF19A2AEF800222F4C /* turbocar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94349DD19A2AEF800222F4C /* turbocar.swift */; };
+		E94349E019A2AEF800222F4C /* Unit2Lesson3.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94349DE19A2AEF800222F4C /* Unit2Lesson3.swift */; };
+		E94349E219A2B13200222F4C /* Hybrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94349E119A2B13200222F4C /* Hybrid.swift */; };
+		E94349E419A2B24700222F4C /* PickUpTruck.swift in Sources */ = {isa = PBXBuildFile; fileRef = E94349E319A2B24700222F4C /* PickUpTruck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		E94349D319A2AEE200222F4C /* Unit2Lesson3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Unit2Lesson3; sourceTree = BUILT_PRODUCTS_DIR; };
 		E94349D619A2AEE200222F4C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		E94349DD19A2AEF800222F4C /* turbocar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = turbocar.swift; path = ../../turbocar.swift; sourceTree = "<group>"; };
+		E94349DE19A2AEF800222F4C /* Unit2Lesson3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Unit2Lesson3.swift; path = ../../Unit2Lesson3.swift; sourceTree = "<group>"; };
+		E94349E119A2B13200222F4C /* Hybrid.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hybrid.swift; sourceTree = "<group>"; };
+		E94349E319A2B24700222F4C /* PickUpTruck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickUpTruck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				E94349D619A2AEE200222F4C /* main.swift */,
+				E94349DD19A2AEF800222F4C /* turbocar.swift */,
+				E94349DE19A2AEF800222F4C /* Unit2Lesson3.swift */,
+				E94349E119A2B13200222F4C /* Hybrid.swift */,
+				E94349E319A2B24700222F4C /* PickUpTruck.swift */,
 			);
 			path = Unit2Lesson3;
 			sourceTree = "<group>";
@@ -118,7 +130,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E94349E019A2AEF800222F4C /* Unit2Lesson3.swift in Sources */,
+				E94349E219A2B13200222F4C /* Hybrid.swift in Sources */,
 				E94349D719A2AEE200222F4C /* main.swift in Sources */,
+				E94349E419A2B24700222F4C /* PickUpTruck.swift in Sources */,
+				E94349DF19A2AEF800222F4C /* turbocar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
